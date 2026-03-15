@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Gaurav Raj Singh
+# Gaurav Raj Singh
 ### Data Scientist | Python Developer | Software Engineer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+scalable+data+tools+in+Python;Educating+the+next+gen+of+developers+on+YouTube;Architecting+modern+web+apps+with+Next.js;Tinkering+with+custom+hardware+and+Arduino)](https://git.io/typing-svg)
