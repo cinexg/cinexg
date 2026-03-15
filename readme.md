@@ -30,6 +30,18 @@ I am a software developer with a strong focus on Data Science, Artificial Intell
 
 ---
 
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cinexg/cinexg/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cinexg/cinexg/output/github-contribution-grid-snake.svg">
+    <img alt="Gaurav's Contribution Snake Animation" src="https://raw.githubusercontent.com/cinexg/cinexg/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 ### 🛠️ Technical Arsenal
 
 <details open>
