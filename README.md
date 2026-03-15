@@ -91,7 +91,6 @@ I am a software developer with a strong focus on Data Science, Artificial Intell
 
 ### 🎥 Latest from YouTube
 
-*(Your latest YouTube videos will auto-populate here once we set up the GitHub Action)*
 ---
 
 <div align="center">
