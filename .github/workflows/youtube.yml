@@ -2,9 +2,8 @@ name: Latest YouTube Videos
 
 on:
   schedule:
-    # Runs every hour
     - cron: '0 * * * *'
-  workflow_dispatch: # This allows you to run it manually right away
+  workflow_dispatch:
 
 jobs:
   update-readme-with-youtube:
@@ -17,7 +16,5 @@ jobs:
       - name: Pull in YouTube videos
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          comment_tag_name: "YOUTUBE-CARDS"
-          # Replace the placeholder below with your actual Channel ID
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCsGvr8GCxYLCBzeBvxO3Hbg"
-          max_post_count: 3 # Adjust this number to show more or fewer videos
+          # Using the default tags now for maximum reliability
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=YOUR_CHANNEL_ID"
