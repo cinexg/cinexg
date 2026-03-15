@@ -19,5 +19,5 @@ jobs:
         with:
           comment_tag_name: "YOUTUBE-CARDS"
           # Replace the placeholder below with your actual Channel ID
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=YOUR_CHANNEL_ID"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCsGvr8GCxYLCBzeBvxO3Hbg"
           max_post_count: 3 # Adjust this number to show more or fewer videos
