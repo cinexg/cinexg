@@ -92,11 +92,11 @@ I am a software developer with a strong focus on Data Science, Artificial Intell
 ### 🎥 Latest from YouTube
 
 <!-- BLOG-POST-LIST:START -->
+- [Python for Beginners - Day 4: Strings, Slicing &amp; String Functions](https://www.youtube.com/watch?v=XTKEmZi09n0)
 - [Python for Beginners - Day 3: Variables, Data Types &amp; Input](https://www.youtube.com/watch?v=vYSk93ElqMQ)
 - [Python for Beginners - Day 2: Print, Comments &amp; Modules](https://www.youtube.com/watch?v=Y3p725mZh5I)
 - [Python for Beginners - Day 1: Setup, Installation &amp; VS Code](https://www.youtube.com/watch?v=gCYgg0hEaPM)
 - [Consistency Isn’t Posting Daily. It’s This](https://www.youtube.com/shorts/RnmIFyfz6j4)
-- [Scientists Found an OFF Button for Brain Aging](https://www.youtube.com/shorts/7vvWzLqWG8A)
 <!-- BLOG-POST-LIST:END -->
 
 ---
